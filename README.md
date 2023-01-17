@@ -25,6 +25,5 @@ ___
 
 
 ## Next steps
-<br>
 
 Upon completion of the challenges, both with and without the use of AI assisted tools, kindly prepare a comprehensive review in the form of a review.md file. This review should detail your thoughts and experiences with the utilization of AI assisted tools in comparison to without it. This review will be of great help to understand the effectiveness of AI assisted tools in improving the coding experience.
