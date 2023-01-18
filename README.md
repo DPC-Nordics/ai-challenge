@@ -15,6 +15,8 @@ This repository contains a set of coding challenges designed to give developers 
 
 5. Create a pull request for _each_ challenge you complete in order to keep it simple for review.
 
+6. Add me as a reviewer
+
 <br>
 
 > Please make sure that you do not share your implementation with other developers to keep the integrity of the challenge.
