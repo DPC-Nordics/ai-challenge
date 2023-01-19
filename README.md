@@ -25,6 +25,26 @@ This repository contains a set of coding challenges designed to give developers 
 
 ___
 
+## Challenges
+
+1. Write a function that takes a string as an input and returns the number of vowels (a, e, i, o, u) in the string.
+2. Write a function that takes an array of numbers as an input and returns the sum of all even numbers in the array.
+3. Write a function that takes an array of numbers as an input and returns the second largest number in the array.
+4. Write a function that takes a string as an input and returns a new string with all the vowels removed.
+5. Write a function that takes an array of numbers and a target number as inputs, and returns the number of times the target number appears in the array.
+      
+   _Example_
+   
+   _input = [1, 2, 3, 4, 5, 6, 3, 3]_
+   
+   _target = 3_
+
+   _Result: 3_
+6. Write a function that takes a sentence as an input and returns the longest word in the sentence.
+7. Write a function that takes a string as an input, and returns the number of words in the string
+8. Write a function that takes a string as an input and returns true if the string is a palindrome.
+9. Write a function that takes a sentence as an input and returns the most common word in the sentence. 
+10. Write a function that takes a matrix (2D array) as input and returns the transpose of the matrix
 
 ## Next steps
 
