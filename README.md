@@ -33,7 +33,7 @@ ___
 4. Write a function that takes a string as an input and returns a new string with all the vowels removed.
 5. Write a function that takes an array of numbers and a target number as inputs, and returns the number of times the target number appears in the array.
       
-   _Example_
+   **Example**
    
    _input = [1, 2, 3, 4, 5, 6, 3, 3]_
    
